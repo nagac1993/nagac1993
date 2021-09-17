@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nagaraja
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in ML,AI and ANN (as of now)
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on ML learning
 - 📫 How to reach me nagac1993@gamil.com
 
 <!---
